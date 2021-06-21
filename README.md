@@ -1,2 +1,2 @@
 # Web-Engineering
-This repository contains web applications
+This repository contains the project of my Web Engineering course.
